@@ -1,0 +1,9 @@
+begin 
+integer x,y
+boolean z
+while x>2
+do 
+x=x+10
+end while 
+
+end 

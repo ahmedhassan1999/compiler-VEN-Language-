@@ -1,0 +1,6 @@
+﻿  Apstract.cpp
+C:\Users\Elwensh\source\repos\Code_Genrator\Code_Genrator\Apstract.cpp(716,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Scope.cpp
+  Generating Code...
+C:\Users\Elwensh\source\repos\Code_Genrator\Code_Genrator\Scope.cpp(35): warning C4715: 'Scope::conv': not all control paths return a value
+  Code_Genrator.vcxproj -> C:\Users\Elwensh\source\repos\Code_Genrator\x64\Debug\Code_Genrator.exe

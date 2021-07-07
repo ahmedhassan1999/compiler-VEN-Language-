@@ -1,0 +1,14 @@
+begin
+
+integer x,y,f
+boolean z
+proc func(integer n,m ; boolean k )= n:=1
+read x;
+begin
+integer k
+read y;
+read l
+end; 
+call func(x,y,f)
+end
+#

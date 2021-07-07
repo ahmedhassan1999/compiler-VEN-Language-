@@ -1,0 +1,10 @@
+begin 
+integer x,y
+boolean z
+if x>2
+then 
+x:=x+1
+else 
+x:=3
+end if
+end 
